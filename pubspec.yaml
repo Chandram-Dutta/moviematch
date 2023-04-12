@@ -41,6 +41,7 @@ dependencies:
   appwrite_auth_kit:
     git:
       url: https://github.com/Chandram-Dutta/appwrite_auth_kit.git
+  validators: ^3.0.0
 
 dev_dependencies:
   flutter_test:
